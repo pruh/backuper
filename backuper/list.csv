@@ -1,0 +1,3 @@
+# Trailing slash in the end of the FOLDER path is important
+# commas are not supported in name or path
+home-folder,/home/
